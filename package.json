@@ -1,0 +1,15 @@
+{
+  "name": "myrestaurant",
+  "version": "1.0.0",
+  "description": "intro to node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "LJ Ensomo",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
